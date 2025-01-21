@@ -18,4 +18,4 @@ As a student majoring in LLM in the Computer Science Department of HUST, I am cu
 
 
 
-[LI-MAX72 的 GitHub 首页](*https://github.com/LI-MAX72*)
+[LI-MAX72 的 GitHub 首页](https://github.com/LI-MAX72)
