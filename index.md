@@ -10,13 +10,15 @@ I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Depar
 
 
 
-**加权成绩：*92.92* 排名：*11/*314 （3%）** 
+**加权成绩：*93.01* 排名：*8/*312 （3%）** 
 
 
 
 **英语： 四级 ： *570* 六级：*533***
 
 
+
+**CSP：345**
 
 ## **award**
 
@@ -31,6 +33,8 @@ I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Depar
 
 
 2022-2023年度**学习优秀奖学金**
+
+2024年度**腾讯奖学金**
 
 
 
@@ -66,11 +70,9 @@ I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Depar
 
 
 
-**2024.09 - ~ 在CGCL实验室参与大语言模型（LLM）中LoRA-MoE相关的研究工作，专注于将低秩适应（LoRA）与专家混合（MoE）技术相结合，以提高模型的参数效率**
+**2024.09 - ~ 在CGCL实验室参与大语言模型（LLM）中LoRA-MoE相关的研究工作，专注于将低秩适应（LoRA）与专家混合（MoE）技术相结合，以提高模型的参数效率，为共一作者**
 
 
-
-**2025.1 - ~ 在CGCL实验室参与deep learing margin distribution，专注于提升模型泛化性能，提出并验证了基于间隔分布的改进策略，有效增强了深度神经网络在复杂任务中的表现。**
 
 
 
