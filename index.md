@@ -20,7 +20,7 @@ I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Depar
 
 **CSP：345**
 
-## **award**
+## **Award**
 
 
 
@@ -42,7 +42,7 @@ I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Depar
 
 
 
-2024 天梯赛个人**国家三等奖**
+2024/2025 天梯赛个人**国家三等奖**
 
 
 
@@ -59,6 +59,8 @@ I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Depar
 
 
 2023 大学生数学竞赛湖北赛区一等奖
+
+2024 蓝桥杯cpp组湖北赛区一等奖
 
 
 
