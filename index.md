@@ -2,7 +2,7 @@
 
 
 
-I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Department of HUST, I am currently in my third year and am striving to gain admission to a more prestigious university. （Now  I will enter in USTC and be guided by prof. Xiong hui and Dr. Zheng zhi）
+I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Department of **HUST**, I am currently in my third year and am striving to gain admission to a more prestigious university. （Now  I will enter in **USTC** and be guided by **prof. Xiong hui** and **Dr. Zheng zhi**）
 
 
 
