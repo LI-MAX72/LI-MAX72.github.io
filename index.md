@@ -54,7 +54,9 @@ I am ***Li Mingyu***. As a student majoring in LLM in the Computer Science Depar
 
 **2024.09 - 2025.5 在CGCL实验室参与大语言模型（LLM）中LoRA-MoE相关的研究工作，专注于将低秩适应（LoRA）与专家混合（MoE）技术相结合，以提高模型的参数效率，为共一作者**
 
-**2025.07-2025.07 中科院计算所实习 论文：**[A Survey of Context Engineering for Large Language Models | PDF](https://arxiv.org/pdf/2507.13334?)
+**2025.07-2025.07 中科院计算所实习 论文：**
+
+[A Survey of Context Engineering for Large Language Models](https://arxiv.org/pdf/2507.13334?)
 
 
 
